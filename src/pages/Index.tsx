@@ -175,7 +175,7 @@ const Index = () => {
               <div className="relative">
                 <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-[#FF5E00] overflow-hidden shadow-2xl">
                   <img 
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" 
+                    src="" 
                     alt="Praveen Kumar" 
                     className="w-full h-full object-cover"
                   />
@@ -385,7 +385,7 @@ const Index = () => {
             <Card className="group hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border-0 shadow-lg overflow-hidden">
               <div className="h-48 bg-gradient-to-br from-[#FF5E00] to-[#FF8A50] relative overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop" 
+                  src="" 
                   alt="QR Code Generator" 
                   className="w-full h-full object-cover opacity-80"
                 />
